@@ -27,7 +27,10 @@ iOS车牌识别，识别率高达98%，仅提供API调动，后台车牌识别�
 ## 捐助开发者
 有钱捧个钱场，没钱捧个人场（请点击页面右上角的★Star，给个Star呗），谢谢各位。
 
+ 
 
+<html>
+<!--在这里插入内容-->
 <div style="text-align:center;">
     <div style="display:inline-block;"><img src="https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/Pay/AlipayQRCode.jpg"></div>
     <div style="display:inline-block;margin-left:40px;"><img src="https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/Pay/weixinpay_qrcode.jpg"></div>
@@ -36,6 +39,10 @@ iOS车牌识别，识别率高达98%，仅提供API调动，后台车牌识别�
         <br>如需退款请发邮件至：m@itellyou.cn
     </div>
 </div>
+
+</html>
+
+
 
 <div style="text-align:center;">
     <div style="display:inline-block<p></p>;"><img src="https://msdn.itellyou.cn/images/345857188168186963.png"></div>
