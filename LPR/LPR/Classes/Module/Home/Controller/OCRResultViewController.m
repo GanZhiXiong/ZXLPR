@@ -1,24 +1,22 @@
 //
-//  OCRViewController.m
+//  OCRResultViewController.m
 //  LPR
 //
-//  Created by 干志雄 on 2018/3/19.
+//  Created by 干志雄 on 2018/3/29.
 //  Copyright © 2018年 干志雄. All rights reserved.
 //
 
-#import "OCRViewController.h"
+#import "OCRResultViewController.h"
 
-@interface OCRViewController ()
+@interface OCRResultViewController ()
 
 @end
 
-@implementation OCRViewController
+@implementation OCRResultViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-
-    self.title = @"车牌识别";
 }
 
 - (void)didReceiveMemoryWarning {

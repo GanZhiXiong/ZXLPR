@@ -18,7 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
 
-    self.title = @"我";
+    self.title = @"我"; 
+
 }
 
 - (void)didReceiveMemoryWarning {

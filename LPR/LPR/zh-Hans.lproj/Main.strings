@@ -1,0 +1,15 @@
+
+/* Class = "UINavigationItem"; title = "我"; ObjectID = "D3R-fi-rIK"; */
+"D3R-fi-rIK.title" = "我";
+
+/* Class = "UINavigationItem"; title = "车牌识别"; ObjectID = "OYf-Ky-hAY"; */
+"OYf-Ky-hAY.title" = "车牌识别";
+
+/* Class = "UIBarButtonItem"; title = "3214"; ObjectID = "UbT-8f-A72"; */
+"UbT-8f-A72.title" = "3214";
+
+/* Class = "UITabBarItem"; title = "车牌识别"; ObjectID = "vJS-CE-9R1"; */
+"vJS-CE-9R1.title" = "车牌识别";
+
+/* Class = "UITabBarItem"; title = "我"; ObjectID = "w6D-9i-t5s"; */
+"w6D-9i-t5s.title" = "我";

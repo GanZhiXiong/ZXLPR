@@ -14,9 +14,25 @@
 		EC094675205F4A2E00EB3221 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC094674205F4A2E00EB3221 /* Assets.xcassets */; };
 		EC094678205F4A2E00EB3221 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC094676205F4A2E00EB3221 /* LaunchScreen.storyboard */; };
 		EC094688205F8D3C00EB3221 /* LPRTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC094687205F8D3C00EB3221 /* LPRTabBarController.m */; };
-		EC09468B205F8DE500EB3221 /* OCRViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC09468A205F8DE500EB3221 /* OCRViewController.m */; };
 		EC09468E205F8E3F00EB3221 /* MineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC09468D205F8E3F00EB3221 /* MineViewController.m */; };
 		EC094694205F957700EB3221 /* LPRNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC094693205F957700EB3221 /* LPRNavigationController.m */; };
+		EC9CAA68206C7BB8000DA432 /* OCRTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC9CAA63206C7BB8000DA432 /* OCRTableViewController.m */; };
+		EC9CAA69206C7BB8000DA432 /* OCRViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC9CAA65206C7BB8000DA432 /* OCRViewController.m */; };
+		EC9CAA6D206C7BEC000DA432 /* OCRRecordTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EC9CAA6B206C7BEC000DA432 /* OCRRecordTableViewCell.m */; };
+		EC9CAA6E206C7BEC000DA432 /* OCRRecordTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = EC9CAA6C206C7BEC000DA432 /* OCRRecordTableViewCell.xib */; };
+		EC9CAA7B206C8C8C000DA432 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC9CAA71206C8C8C000DA432 /* 1.jpg */; };
+		EC9CAA80206C8C8C000DA432 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC9CAA76206C8C8C000DA432 /* 2.jpg */; };
+		EC9CAA81206C8C8C000DA432 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC9CAA77206C8C8C000DA432 /* 4.jpg */; };
+		EC9CAA82206C8C8C000DA432 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC9CAA78206C8C8C000DA432 /* 5.jpg */; };
+		EC9CAA83206C8C8C000DA432 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC9CAA79206C8C8C000DA432 /* 6.jpg */; };
+		EC9CAA84206C8C8C000DA432 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC9CAA7A206C8C8C000DA432 /* 7.jpg */; };
+		EC9CAA87206C902D000DA432 /* OCRInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = EC9CAA86206C902D000DA432 /* OCRInfo.m */; };
+		EC9CAA8A206CB3F6000DA432 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC9CAA88206CB3F6000DA432 /* 3.jpg */; };
+		EC9CAA8B206CB3F6000DA432 /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC9CAA89206CB3F6000DA432 /* 8.jpg */; };
+		EC9CAA8E206CCA26000DA432 /* OCRResultViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC9CAA8D206CCA26000DA432 /* OCRResultViewController.m */; };
+		ECF2F826206F2CB400DC3294 /* KBTabbar.m in Sources */ = {isa = PBXBuildFile; fileRef = ECF2F824206F2CB400DC3294 /* KBTabbar.m */; };
+		ECF2F829206F458600DC3294 /* HJTView.m in Sources */ = {isa = PBXBuildFile; fileRef = ECF2F828206F458600DC3294 /* HJTView.m */; };
+		ECF2F82C206F45CE00DC3294 /* HJTAnimationView.m in Sources */ = {isa = PBXBuildFile; fileRef = ECF2F82B206F45CE00DC3294 /* HJTAnimationView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,12 +48,37 @@
 		EC094679205F4A2E00EB3221 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EC094686205F8D3C00EB3221 /* LPRTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPRTabBarController.h; sourceTree = "<group>"; };
 		EC094687205F8D3C00EB3221 /* LPRTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPRTabBarController.m; sourceTree = "<group>"; };
-		EC094689205F8DE500EB3221 /* OCRViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCRViewController.h; sourceTree = "<group>"; };
-		EC09468A205F8DE500EB3221 /* OCRViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OCRViewController.m; sourceTree = "<group>"; };
 		EC09468C205F8E3F00EB3221 /* MineViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MineViewController.h; sourceTree = "<group>"; };
 		EC09468D205F8E3F00EB3221 /* MineViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MineViewController.m; sourceTree = "<group>"; };
 		EC094692205F957700EB3221 /* LPRNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPRNavigationController.h; sourceTree = "<group>"; };
 		EC094693205F957700EB3221 /* LPRNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPRNavigationController.m; sourceTree = "<group>"; };
+		EC9CAA62206C7BB8000DA432 /* OCRTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCRTableViewController.h; sourceTree = "<group>"; };
+		EC9CAA63206C7BB8000DA432 /* OCRTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OCRTableViewController.m; sourceTree = "<group>"; };
+		EC9CAA64206C7BB8000DA432 /* OCRViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCRViewController.h; sourceTree = "<group>"; };
+		EC9CAA65206C7BB8000DA432 /* OCRViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OCRViewController.m; sourceTree = "<group>"; };
+		EC9CAA6A206C7BEC000DA432 /* OCRRecordTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCRRecordTableViewCell.h; sourceTree = "<group>"; };
+		EC9CAA6B206C7BEC000DA432 /* OCRRecordTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OCRRecordTableViewCell.m; sourceTree = "<group>"; };
+		EC9CAA6C206C7BEC000DA432 /* OCRRecordTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OCRRecordTableViewCell.xib; sourceTree = "<group>"; };
+		EC9CAA71206C8C8C000DA432 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		EC9CAA76206C8C8C000DA432 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		EC9CAA77206C8C8C000DA432 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		EC9CAA78206C8C8C000DA432 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		EC9CAA79206C8C8C000DA432 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		EC9CAA7A206C8C8C000DA432 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		EC9CAA85206C902D000DA432 /* OCRInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCRInfo.h; sourceTree = "<group>"; };
+		EC9CAA86206C902D000DA432 /* OCRInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OCRInfo.m; sourceTree = "<group>"; };
+		EC9CAA88206CB3F6000DA432 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		EC9CAA89206CB3F6000DA432 /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		EC9CAA8C206CCA26000DA432 /* OCRResultViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCRResultViewController.h; sourceTree = "<group>"; };
+		EC9CAA8D206CCA26000DA432 /* OCRResultViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OCRResultViewController.m; sourceTree = "<group>"; };
+		ECF2F824206F2CB400DC3294 /* KBTabbar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KBTabbar.m; sourceTree = "<group>"; };
+		ECF2F825206F2CB400DC3294 /* KBTabbar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KBTabbar.h; sourceTree = "<group>"; };
+		ECF2F827206F458600DC3294 /* HJTView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HJTView.h; sourceTree = "<group>"; };
+		ECF2F828206F458600DC3294 /* HJTView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HJTView.m; sourceTree = "<group>"; };
+		ECF2F82A206F45CE00DC3294 /* HJTAnimationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HJTAnimationView.h; sourceTree = "<group>"; };
+		ECF2F82B206F45CE00DC3294 /* HJTAnimationView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HJTAnimationView.m; sourceTree = "<group>"; };
+		ECF2F82D206F522100DC3294 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
+		ECF2F82E206F522100DC3294 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +136,7 @@
 		EC09467F205F842B00EB3221 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				EC9CAA6F206C8C8C000DA432 /* Resource */,
 				EC094684205F8BF300EB3221 /* Base */,
 				EC094680205F842B00EB3221 /* Module */,
 				EC094681205F842B00EB3221 /* View */,
@@ -115,6 +157,10 @@
 		EC094681205F842B00EB3221 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				ECF2F827206F458600DC3294 /* HJTView.h */,
+				ECF2F828206F458600DC3294 /* HJTView.m */,
+				ECF2F82A206F45CE00DC3294 /* HJTAnimationView.h */,
+				ECF2F82B206F45CE00DC3294 /* HJTAnimationView.m */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -122,8 +168,9 @@
 		EC094682205F8B6700EB3221 /* Home */ = {
 			isa = PBXGroup;
 			children = (
-				EC094689205F8DE500EB3221 /* OCRViewController.h */,
-				EC09468A205F8DE500EB3221 /* OCRViewController.m */,
+				EC9CAA61206C7BB8000DA432 /* Controller */,
+				EC9CAA66206C7BB8000DA432 /* Model */,
+				EC9CAA67206C7BB8000DA432 /* View */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -140,6 +187,8 @@
 		EC094684205F8BF300EB3221 /* Base */ = {
 			isa = PBXGroup;
 			children = (
+				ECF2F825206F2CB400DC3294 /* KBTabbar.h */,
+				ECF2F824206F2CB400DC3294 /* KBTabbar.m */,
 				EC094686205F8D3C00EB3221 /* LPRTabBarController.h */,
 				EC094687205F8D3C00EB3221 /* LPRTabBarController.m */,
 				EC094692205F957700EB3221 /* LPRNavigationController.h */,
@@ -153,6 +202,61 @@
 			children = (
 			);
 			path = Utils;
+			sourceTree = "<group>";
+		};
+		EC9CAA61206C7BB8000DA432 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				EC9CAA62206C7BB8000DA432 /* OCRTableViewController.h */,
+				EC9CAA63206C7BB8000DA432 /* OCRTableViewController.m */,
+				EC9CAA64206C7BB8000DA432 /* OCRViewController.h */,
+				EC9CAA65206C7BB8000DA432 /* OCRViewController.m */,
+				EC9CAA8C206CCA26000DA432 /* OCRResultViewController.h */,
+				EC9CAA8D206CCA26000DA432 /* OCRResultViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		EC9CAA66206C7BB8000DA432 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				EC9CAA85206C902D000DA432 /* OCRInfo.h */,
+				EC9CAA86206C902D000DA432 /* OCRInfo.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		EC9CAA67206C7BB8000DA432 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				EC9CAA6A206C7BEC000DA432 /* OCRRecordTableViewCell.h */,
+				EC9CAA6B206C7BEC000DA432 /* OCRRecordTableViewCell.m */,
+				EC9CAA6C206C7BEC000DA432 /* OCRRecordTableViewCell.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		EC9CAA6F206C8C8C000DA432 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				EC9CAA70206C8C8C000DA432 /* Test Car Images */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		EC9CAA70206C8C8C000DA432 /* Test Car Images */ = {
+			isa = PBXGroup;
+			children = (
+				EC9CAA88206CB3F6000DA432 /* 3.jpg */,
+				EC9CAA89206CB3F6000DA432 /* 8.jpg */,
+				EC9CAA71206C8C8C000DA432 /* 1.jpg */,
+				EC9CAA76206C8C8C000DA432 /* 2.jpg */,
+				EC9CAA77206C8C8C000DA432 /* 4.jpg */,
+				EC9CAA78206C8C8C000DA432 /* 5.jpg */,
+				EC9CAA79206C8C8C000DA432 /* 6.jpg */,
+				EC9CAA7A206C8C8C000DA432 /* 7.jpg */,
+			);
+			path = "Test Car Images";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -214,9 +318,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC9CAA8B206CB3F6000DA432 /* 8.jpg in Resources */,
+				EC9CAA8A206CB3F6000DA432 /* 3.jpg in Resources */,
+				EC9CAA81206C8C8C000DA432 /* 4.jpg in Resources */,
+				EC9CAA83206C8C8C000DA432 /* 6.jpg in Resources */,
+				EC9CAA84206C8C8C000DA432 /* 7.jpg in Resources */,
 				EC094678205F4A2E00EB3221 /* LaunchScreen.storyboard in Resources */,
+				EC9CAA80206C8C8C000DA432 /* 2.jpg in Resources */,
+				EC9CAA6E206C7BEC000DA432 /* OCRRecordTableViewCell.xib in Resources */,
 				EC094675205F4A2E00EB3221 /* Assets.xcassets in Resources */,
 				EC094673205F4A2E00EB3221 /* Main.storyboard in Resources */,
+				EC9CAA82206C8C8C000DA432 /* 5.jpg in Resources */,
+				EC9CAA7B206C8C8C000DA432 /* 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -228,12 +341,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC094670205F4A2E00EB3221 /* ViewController.m in Sources */,
+				EC9CAA69206C7BB8000DA432 /* OCRViewController.m in Sources */,
 				EC094694205F957700EB3221 /* LPRNavigationController.m in Sources */,
+				EC9CAA6D206C7BEC000DA432 /* OCRRecordTableViewCell.m in Sources */,
+				EC9CAA8E206CCA26000DA432 /* OCRResultViewController.m in Sources */,
 				EC09466D205F4A2E00EB3221 /* AppDelegate.m in Sources */,
+				EC9CAA68206C7BB8000DA432 /* OCRTableViewController.m in Sources */,
+				ECF2F829206F458600DC3294 /* HJTView.m in Sources */,
+				EC9CAA87206C902D000DA432 /* OCRInfo.m in Sources */,
 				EC094688205F8D3C00EB3221 /* LPRTabBarController.m in Sources */,
+				ECF2F82C206F45CE00DC3294 /* HJTAnimationView.m in Sources */,
 				EC09468E205F8E3F00EB3221 /* MineViewController.m in Sources */,
+				ECF2F826206F2CB400DC3294 /* KBTabbar.m in Sources */,
 				EC09466A205F4A2E00EB3221 /* main.m in Sources */,
-				EC09468B205F8DE500EB3221 /* OCRViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,6 +364,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				EC094672205F4A2E00EB3221 /* Base */,
+				ECF2F82D206F522100DC3294 /* zh-Hans */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -252,6 +373,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				EC094677205F4A2E00EB3221 /* Base */,
+				ECF2F82E206F522100DC3294 /* zh-Hans */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -263,6 +385,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -312,6 +435,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";

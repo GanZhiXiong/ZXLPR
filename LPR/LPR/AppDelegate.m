@@ -27,15 +27,15 @@
             NSFontAttributeName: [UIFont boldSystemFontOfSize:18],
             NSForegroundColorAttributeName: [UIColor whiteColor]
         }]; //改变导航条内容的颜色
-        [[UINavigationBar appearance] setBarTintColor:[UIColor colorWithRed:0.271 green:0.514 blue:0.976 alpha:1.000]]; // 改变导航条的系统默认颜色
+        [[UINavigationBar appearance] setBarTintColor:[UIColor colorWithRed:0.333 green:0.600 blue:0.984 alpha:1.000]]; // 改变导航条的系统默认颜色
         [[UINavigationBar appearance] setTranslucent:NO];                        //设置导航条状态栏是否透明
     }
 
-    self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
-    LPRTabBarController *lprTabBarController = [LPRTabBarController new];
-    self.window.rootViewController = lprTabBarController;
-    self.window.backgroundColor = [UIColor whiteColor];
-    [self.window makeKeyAndVisible];
+//    self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
+//    LPRTabBarController *lprTabBarController = [LPRTabBarController new];
+//    self.window.rootViewController = lprTabBarController;
+//    self.window.backgroundColor = [UIColor whiteColor];
+//    [self.window makeKeyAndVisible];
 
     //    [self setUpNavigationBarAppearance];
 
