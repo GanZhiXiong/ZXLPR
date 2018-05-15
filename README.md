@@ -6,10 +6,10 @@ iOS车牌识别，识别率高达98%，仅提供API调动，后台车牌识别�
 
 ## UI 
 **历史识别记录**  
-![Image load failure](https://github.com/GanZhiXiong/ZXLPR/blob/master/images/home.jpeg)  
+![Image load failure](https://github.com/GanZhiXiong/ZXLPR/blob/master/Images/home.jpeg)  
 
 **识别入口（拍照和相册）**    
-![Image load failure](https://github.com/GanZhiXiong/ZXLPR/blob/master/images/identify_entrance.jpeg)
+![Image load failure](https://github.com/GanZhiXiong/ZXLPR/blob/master/Images/identify_entrance.jpeg)
 
 ## 车牌识别API
    
