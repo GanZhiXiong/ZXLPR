@@ -69,7 +69,21 @@
         for (int i = 0; i < 8; i++) {
             OCRInfo *ocrInfo = [OCRInfo new];
             ocrInfo.image = [NSString stringWithFormat:@"%d.jpg", i + 1];
-            ocrInfo.plateNumber = @"粤B1JQ17";
+            switch (i+1) {
+                case 1:
+                    ocrInfo.plateNumber = @"川A·205Q6";
+                    break;
+                case 2:
+                    ocrInfo.plateNumber = @"川A·SN575";
+                    break;
+                case 3:
+                    ocrInfo.plateNumber = @"京M·J0166";
+                    break;
+                default:
+                    ocrInfo.plateNumber = @"赣K·11978";
+                    break;
+            }
+            
             ocrInfo.isCorrect = YES;
             [_ocrRecordMutableArray addObject:ocrInfo];
         }
