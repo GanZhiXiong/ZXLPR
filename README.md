@@ -27,6 +27,25 @@ iOS车牌识别，识别率高达98%，仅提供API调动，后台车牌识别�
 ## 捐助开发者
 有钱捧个钱场，没钱捧个人场（请点击页面右上角的★Star，给个Star呗），谢谢各位。
 
+
+<div style="text-align:center;">
+    <div style="display:inline-block;"><img src="https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/Pay/AlipayQRCode.jpg"></div>
+    <div style="display:inline-block;margin-left:40px;"><img src="https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/Pay/weixinpay_qrcode.jpg"></div>
+    <div style="font-weight:bold;margin-top:15px;">本站不保证所有人都可以下载成功，请在下载完成后再考虑自愿为本站打赏或捐助。
+        <br>退款没有有效期，只需要提供付款截图和收款二维码即可（不是二维码名片）
+        <br>如需退款请发邮件至：m@itellyou.cn
+    </div>
+</div>
+
+<div style="text-align:center;">
+    <div style="display:inline-block<p></p>;"><img src="https://msdn.itellyou.cn/images/345857188168186963.png"></div>
+    <div style="display:inline-block;margin-left:40px;"><img src="https://msdn.itellyou.cn/images/563124707301432079.png"></div>
+    <div style="font-weight:bold;margin-top:15px;">您的支持是我持续开发的最大动力。
+        <br>退款没有有效期，只需要提供付款截图和收款二维码即可（不是二维码名片）
+        <br>如需退款请发邮件至：ganzhixiong@sina.cn
+    </div>
+</div>
+
 <div style="text-align:center;">
     <div style="display:inline-block<p></p>;"><img src="https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/Pay/AlipayQRCode.jpg"></div>
     <div style="display:inline-block;margin-left:40px;"><img src="https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/Pay/weixinpay_qrcode.jpg"></div>
@@ -34,7 +53,7 @@ iOS车牌识别，识别率高达98%，仅提供API调动，后台车牌识别�
         <br>退款没有有效期，只需要提供付款截图和收款二维码即可（不是二维码名片）
         <br>如需退款请发邮件至：ganzhixiong@sina.cn
     </div>
-</div> 
+</div>
 
 ## 感激
   
