@@ -27,8 +27,14 @@ iOS车牌识别，识别率高达98%，仅提供API调动，后台车牌识别�
 ## 捐助开发者
 有钱捧个钱场，没钱捧个人场（请点击页面右上角的★Star，给个Star呗），谢谢各位。
 
-![](https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/Pay/AlipayQRCode.jpg)
-![](https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/Pay/weixinpay_qrcode.jpg)
+<div style="text-align:center;">
+    <div style="display:inline-block<p></p>;"><img src="https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/Pay/AlipayQRCode.jpg"></div>
+    <div style="display:inline-block;margin-left:40px;"><img src="https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/Pay/weixinpay_qrcode.jpg"></div>
+    <div style="font-weight:bold;margin-top:15px;">您的支持是我持续开发的最大动力。
+        <br>退款没有有效期，只需要提供付款截图和收款二维码即可（不是二维码名片）
+        <br>如需退款请发邮件至：ganzhixiong@sina.cn
+    </div>
+</div> 
 
 ## 感激
   
